@@ -28,3 +28,5 @@ b.sayName()
 c.sayName()
 d.sayName()
 d.run()
+
+f = '3'
